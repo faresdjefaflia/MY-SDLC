@@ -12,8 +12,8 @@ Software Development Life Cycle
 - Create User Flow Document.
 - System Design Document.
 - Design the database schema (database-schema.md).
-- Design API endpoints (api-endpoints.md).
 - Design the User Interface (UI) using Figma.
+- Design API endpoints (api-endpoints.md) or postman.
 
 ### **3. Development**  
 - **Backend:**  
