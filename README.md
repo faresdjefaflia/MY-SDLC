@@ -4,16 +4,16 @@ Software Development Life Cycle
 ## **Project Development for the Educational Platform**
 
 ### **1. Planning & Analysis**  
-- Create an introductory document (intro.md).  
-- Write the requirements document (requirements.md).  
+- Write Product Requirements Document (PRD).
+- User Personas & User Stories.
 
 ### **2. Design**  
-- Create a site map (site-map.md).
-- Create User Flow Document.
-- System Design Document.
-- Design the database schema (database-schema.md).
-- Design the User Interface (UI) using Figma.
-- Design API endpoints (api-endpoints.md), (postman).
+- System Architecture Document.
+- Create a site map.
+- User Flow & Wireframes (UI/UX)
+- Database Schema Design
+- API Design & Endpoints
+- Technical Design Document (TDD)
 
 ### **3. Development**  
 - **Backend:**  
