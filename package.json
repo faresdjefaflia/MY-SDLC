@@ -1,0 +1,20 @@
+{
+  "name": "sdlc-phases",
+  "version": "1.2.0",
+  "description": "Software Development Life Cycle",
+  "homepage": "https://github.com/faresdjefaflia/sdlc-phases#readme",
+  "bugs": {
+    "url": "https://github.com/faresdjefaflia/sdlc-phases/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faresdjefaflia/sdlc-phases.git"
+  },
+  "license": "ISC",
+  "author": "faresdjefaflia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
